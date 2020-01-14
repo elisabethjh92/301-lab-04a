@@ -1,0 +1,78 @@
+@media (min-width: 768px) {
+    
+    body {
+        width: 960px;
+    }
+
+    #boxA {
+        width: 100%;
+        height: 10.41%;
+        line-height: 100px;
+        clear: left;
+        background-color: red;
+    }
+
+    #boxB {
+        width: 200px;
+        height: 85.71%;
+        line-height: 600px;
+        float: left;
+        background-color: orange;
+    }
+
+    #boxC {
+        width: 39.58%;
+        height: 28.57%;
+        line-height: 200px;
+        display: inline-block;
+        background-color: yellow;
+    }
+
+    #boxD {
+        width: 39.58%;
+        height: 28.57%;
+        line-height: 200px;
+        display: inline-block;
+        background-color: green;
+    }
+
+    #boxE {
+        width: 19.79%;
+        height: 35.71%;
+        line-height: 250px;
+        display: inline-block;
+        background-color: blue;
+    }
+
+    #boxF {
+        width: 19.79%;
+        height: 35.71%;
+        line-height: 250px;
+        display: inline-block;
+        background-color: indigo;
+    }
+
+    #boxG {
+        width: 19.79%;
+        height: 35.71%;
+        line-height: 250px;
+        display: inline-block;
+        background-color: purple;
+    }
+
+    #boxH {
+        width: 19.79%;
+        height: 35.71%;
+        line-height: 250px;
+        display: inline-block;
+        background-color: pink;
+    }
+
+    #boxI {
+        width: 79.16%;
+        height: 21.42%;
+        line-height: 150px;
+        display: inline-block;
+        color: aqua;
+    }
+}
